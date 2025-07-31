@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/nikhilbhatt/nikhilbhatt-2025-7-31-16-34-7/:/",
+    "/content/nikhilbhatt/nikhilbhatt-2025-7-31-16-34-7/metadata.json:/metadata.json",
+    "/content/nikhilbhatt/nikhilbhatt-2025-7-31-16-34-7/redirects.json:/redirects.json"
   ]
 }
